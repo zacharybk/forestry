@@ -1,5 +1,5 @@
 <template>
-  <Layout :sidebar="false">
+  <Layout :sidebar="true">
     <div class="content">
       <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
       <nav>
@@ -32,7 +32,7 @@ export default {
   },
   data() {
     return {
-      description: 'The ultimate static generated documentation theme for the JAM-stack'
+      description: 'CX Wiki, the place to learn how to build and run high-growth Customer Experience teams'
     }
   },
   metaInfo() {
