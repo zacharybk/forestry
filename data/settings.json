@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Natalie",
+      "topics": [
+        {
+          "title": "Hi Natalie",
+          "slug": "hi-natalie"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
